@@ -1,0 +1,1 @@
+wicked pdf gem sample
